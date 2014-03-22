@@ -1,6 +1,6 @@
 #!python3
 """ Simple X/Y graphs drawing from csv files
- Last update S. Caillat 17/03/2014"""
+ Last update S. Caillat 22/03/2014"""
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator, FormatStrFormatter
